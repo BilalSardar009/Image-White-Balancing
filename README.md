@@ -37,3 +37,12 @@ To use this approach, run the code and follow the instructions in the displayed 
 4. Run the code and observe the white-balanced image in a separate window.
 
 Feel free to modify the code as needed to suit your requirements.
+
+## Example
+1. Input Image:
+
+![Input Image:](https://github.com/BilalSardar009/Image-White-Balancing/blob/main/White%20Balancing/lake.png)
+
+2. Output Image:
+
+![Output Image](https://github.com/BilalSardar009/Image-White-Balancing/blob/main/White%20Balancing/color-balanced-lake.png)
