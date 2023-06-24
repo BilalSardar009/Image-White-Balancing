@@ -45,4 +45,4 @@ Feel free to modify the code as needed to suit your requirements.
 
 2. Output Image:
 
-![Output Image](https://github.com/BilalSardar009/Image-White-Balancing/blob/main/White%20Balancing/color-balanced-lake.png)
+![Output Image](https://github.com/BilalSardar009/Image-White-Balancing/blob/main/White%20Balancing/color-balanced.png)
